@@ -15,6 +15,8 @@ In business or technical terms describe your understanding of continuous integra
    - **Tools**: Bitbucket Pipelines, Jenkins, AWS CodePipeline, CircleCI, Azure Pipelines, GitLab, Atlassian Bamboo. These tools usually contain the function of version control management, automated testing, build automation and automated deployment.
    - **Why**: The tools are used to deploy CI to overcome the difficulty and time-consuming of the changed code merging. The function provided by CI tools will accelerate delivery updates and ensure code quality.
 
+![image](https://user-images.githubusercontent.com/24654508/211180325-b17f861c-5f2d-470a-a05d-c0ca729be66c.png)
+
 
 #### Continuous Delivery (CD)
 
